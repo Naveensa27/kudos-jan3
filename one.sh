@@ -6,4 +6,5 @@ echo "Current date and time: $(date)"
 echo "Current working directory: $(pwd)"
 echo "List of files in the current directory:"
 ls -l
+df -h
 # This script is made by Naveen S A
